@@ -37,6 +37,10 @@ public class AreaProgram {
 		keyboard.close();
 	}
 
+  /**
+   * Calculates the area of a square given its length.
+   * @param keyboard
+   */
   public static void squareArea(Scanner keyboard) {
     System.out.print("--- Area of a Square ---\nEnter the square's lenght: ");
     double length = keyboard.nextDouble();
@@ -44,6 +48,10 @@ public class AreaProgram {
     System.out.println("Square's area is: " + area);
   }
 
+  /**
+   * Calculates the area of a circle given its radius.
+   * @param keyboard
+   */
   public static void circleArea(Scanner keyboard) {
     System.out.print("--- Area of a Circle ---\nEnter the cirle's radius: ");
     double radius = keyboard.nextDouble();
@@ -51,6 +59,10 @@ public class AreaProgram {
     System.out.println("Circle's area is: " + area);
   }
 
+  /**
+   * calculates the area of a triangle given its base and height.
+   * @param keyboard
+   */
   public static void triangleArea(Scanner keyboard) {
     System.out.print("--- Area of a Triangle ---\nEnter the triangle's base: ");
     double base = keyboard.nextDouble();
