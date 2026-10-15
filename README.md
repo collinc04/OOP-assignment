@@ -12,4 +12,22 @@ To run the program
 
 <h1>SCREENSHOTS:</h1><br>
 
+Idle:
+
 <img src="/Media/Idle.png"></img>
+
+Square:
+
+<img src="/Media/CalculatedSquare.png"></img>
+
+Rectangle:
+
+<img src="/Media/CalculatedRectangle.png"></img>
+
+Circle:
+
+<img src="/Media/CalculatedCircle.png"></img>
+
+Triangle:
+
+<img src="/Media/CalculatedTriangle.png"></img>
