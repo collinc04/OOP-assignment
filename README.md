@@ -9,3 +9,7 @@ Then,
 >java ShapeManager <br>
 
 To run the program
+
+<h1>SCREENSHOTS:</h1><br>
+
+<img src="/Media/Idle.png"></img>
